@@ -1,12 +1,7 @@
 print("Hello World")
 print(2+3)
 print(3-2)
-print(2*3)
-print(3/2)
-print(3//2)
-print(3%2)
-print(3**2)
-print(2**3)
+
 a=1
 print(a)
 a=1.1
